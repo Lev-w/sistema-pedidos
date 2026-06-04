@@ -1,0 +1,7 @@
+.venv
+.venv-1
+.env
+__pycache__
+*.pyc
+*.pyo
+tienda.db
